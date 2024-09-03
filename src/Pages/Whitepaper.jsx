@@ -1,4 +1,4 @@
-import Roadmap from './Roadmap'
+import Roadmap from './Roadmap.jsx'
 
 const Whitepaper = () => {
   return (
