@@ -11,7 +11,7 @@ import Bar from "../compnent/Bar.jsx";
 import Bar2 from "../compnent/Bar2.jsx";
 import Presale from "./Presale.jsx";
 import About from "./About.jsx";
-import Roadmap from "../compnent/roadmap.jsx";
+import Roadmap from "../Pages/Roadmap.jsx";
 import { useState, useEffect } from "react";
 import Navbar from "../compnent/Navbar.jsx";
 import { IoCopy } from "react-icons/io5";
