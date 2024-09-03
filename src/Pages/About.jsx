@@ -1,5 +1,5 @@
 import Chart from "react-apexcharts";
-import pyjama from "../assets/bgstuf/Pyjama.svg";
+import pyjama from "../assets/bgstuf/pyjama.svg";
 
 const About = () => {
   return (
