@@ -1,4 +1,4 @@
-import Roadmap from '../compnent/roadmap'
+import Roadmap from './Roadmap'
 
 const Whitepaper = () => {
   return (
